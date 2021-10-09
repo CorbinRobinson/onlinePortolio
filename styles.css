@@ -1,0 +1,110 @@
+/*
+  Corbin Robinson, styles.css, 10/08/2021
+*/
+
+/*CSS Reset*/
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+nav {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+main {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+h3 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* Style rule for header*/
+header {
+  color: #ededed;
+  background-color: #2C2F33;
+  font-weight: bold;
+}
+
+/* Style rule for nav*/
+nav ul{
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+}
+nav li{
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+}
+
+/* Style rules for main content*/
+main {
+
+}
+main p{
+
+}
+image {
+  max-width: 100%;
+  padding: 1%;
+  text-align: center;
+  display: block;
+}
+#telephone{
+  font-style: italic;
+  text-decoration: none;
+  font-family: Geneva, Arial, sans-serif;
+}
+.hobby {
+  font-family: Georgia, Times, serif;
+  background-color: #c9deff;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  padding-left: 5%;
+}
+
+/* Style rules for footer*/
+footer {
+  text-align: center;
+  font-size: 0.85em;
+  color: #e3eaf8;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 0%;
+  padding-left: 0%;
+}
+footer p{
+
+}
+
+
